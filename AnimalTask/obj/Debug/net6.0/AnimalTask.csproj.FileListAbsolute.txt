@@ -1,0 +1,14 @@
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\bin\Debug\net6.0\AnimalTask.exe
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\bin\Debug\net6.0\AnimalTask.deps.json
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\bin\Debug\net6.0\AnimalTask.runtimeconfig.json
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\bin\Debug\net6.0\AnimalTask.dll
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\bin\Debug\net6.0\AnimalTask.pdb
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\AnimalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\AnimalTask.AssemblyInfoInputs.cache
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\AnimalTask.AssemblyInfo.cs
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\AnimalTask.csproj.CoreCompileInputs.cache
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\AnimalTask.dll
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\refint\AnimalTask.dll
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\AnimalTask.pdb
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\AnimalTask.genruntimeconfig.cache
+C:\Users\Elvinei\source\repos\ConsoleApp1\AnimalTask\obj\Debug\net6.0\ref\AnimalTask.dll

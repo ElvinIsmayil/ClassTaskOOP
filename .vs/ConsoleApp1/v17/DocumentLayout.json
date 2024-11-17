@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|c:\\users\\elvinei\\source\\repos\\consoleapp1\\consoleapp2\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|solutionrelative:consoleapp2\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|c:\\users\\elvinei\\source\\repos\\consoleapp1\\consoleapp2\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|solutionrelative:consoleapp2\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|c:\\users\\elvinei\\source\\repos\\consoleapp1\\consoleapp2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|solutionrelative:consoleapp2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|c:\\users\\elvinei\\source\\repos\\consoleapp1\\consoleapp2\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|solutionrelative:consoleapp2\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|c:\\users\\elvinei\\source\\repos\\consoleapp1\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D370702-7101-4BD1-8178-5DC8A5217B44}|ConsoleApp2\\VehicleTask.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Models\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Motorcycle.cs",
+              "RelativeToolTip": "ConsoleApp2\\Models\\Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:12:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Models\\Train.cs",
+              "ToolTip": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Train.cs",
+              "RelativeToolTip": "ConsoleApp2\\Models\\Train.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:08:47.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Car.cs",
+              "RelativeToolTip": "ConsoleApp2\\Models\\Car.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:08:47.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Models\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleApp2\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:03:57.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvinei\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:29:19.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
